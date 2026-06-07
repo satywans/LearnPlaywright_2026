@@ -50,9 +50,10 @@ graph TB
             ch7["Ch 7: If / Else ✅"]
             ch8["Ch 8: Switch ✅"]
             ch9["Ch 9: User Input ✅"]
-            ch10["Ch 10: Loops"]
-            ch11["Ch 11: Arrays"]
-            ch12_fn["Ch 12: Functions & Strings"]
+            ch10["Ch 10: Loops ✅"]
+            ch11["Ch 11: Arrays ✅"]
+            ch12_fn["Ch 12: Functions ✅"]
+            ch13_str["Ch 13: Strings ✅"]
         end
 
         subgraph adv["⚙️ Advanced JS (Weeks 7–8)"]
@@ -206,12 +207,60 @@ LearnPlaywrightBatch2x/
 │   ├── 81_IQ.js                         # More loop interview practice
 │   └── 82_IQ.js                         # Final loop problem in the chapter
 │
+├── Chapter_11_Array/                   ✅ Arrays — manipulation, iteration, methods, slicing
+│   ├── 83_Array.js                      # Array creation and basics
+│   ├── 84_Array.js                      # Array manipulation
+│   ├── 85_Access_Array.js               # Accessing array elements by index
+│   ├── 86_Arrays_Adding_Remove.js       # push(), pop(), shift(), unshift()
+│   ├── 87_Adding_Remove2.js             # More array modification methods
+│   ├── 88_REAL_Example.js               # Real-world array usage
+│   ├── 89_Searching.js                  # Finding elements with indexOf(), find()
+│   ├── 90_Iterate.js                    # Iterating arrays with loops and forEach
+│   ├── 91_Transform_Array.js            # map(), filter(), reduce()
+│   ├── 92_Arrays.js                     # Array reference exercises
+│   ├── 93_Array_Slicing.js              # slice() and splice() methods
+│   ├── 94_Concat_array.js               # concat() for merging arrays
+│   └── 95_Array_Checking.js             # Array type checking and validation
+│
+├── chapter_12_Funtions/                ✅ Functions — declarations, expressions, arrow functions, closures
+│   ├── 96_Functions.js                  # Function basics
+│   ├── 97_Type1_Fn_Basic_Functions.js   # Function declaration
+│   ├── 98_Type2_Fn_With_Param_No_Return.js  # Functions with parameters
+│   ├── 99_Type3_Fn_without_Param_Return_Type.js  # Functions with return values
+│   ├── 100_Type4_Fn_With_Param_With_Return.js  # Functions with params and return
+│   ├── 101_Template_literal.js          # Using template literals in functions
+│   ├── 102_Fn_Expression.js             # Function expressions
+│   ├── 103_Arrow_Fn.js                  # Arrow functions syntax
+│   ├── 104_Arrow_Fn_REAL.js             # Practical arrow function examples
+│   ├── 105_IIFE.js                      # Immediately Invoked Function Expressions
+│   ├── 106_Default_Param_Fn.js          # Default function parameters
+│   ├── 107_IQ.js                        # Function interview questions
+│   ├── 108_Rest_Param_Fn.js             # Rest parameters (...args)
+│   ├── 109_IQ.js                        # More function puzzles
+│   ├── 110_Spead_IQ.js                  # Spread operator in functions
+│   ├── 111_Scope._Fn.js                 # Function scope and closures intro
+│   ├── 112_IQ.js                        # Scope and closure questions
+│   ├── 113_Closure.js                   # Closures explained
+│   ├── 114_Closure.js                   # Closure examples
+│   ├── 115_API_REAL_Closure.js          # Real-world closure patterns
+│   ├── 116_Higher_Order_Fn.js           # Higher-order functions
+│   └── 117_Pure_Fn.js                   # Pure functions and side effects
+│
+├── chapter_13_Strings/                 ✅ Strings — properties, methods, searching, transformation
+│   ├── 118_Strings.js                   # String basics
+│   ├── 119_String_Properties.js         # String length and character access
+│   ├── 120_Search_Check_Str.js          # indexOf(), includes(), startsWith()
+│   ├── 121_Substring.js                 # substring(), slice(), substr()
+│   ├── 122_Transform_Str.js             # toUpperCase(), toLowerCase(), trim()
+│   ├── 123_SC.js                        # String method cheat sheet
+│   └── javascript_stringcheatsheet.md   # String methods quick reference
+│
 └── README.md                           👋 You are here
 ```
 
-> Each chapter has its **own README.md** with full code walk-throughs and expected output. Jump straight in:
+> Most chapters include a **own README.md** with full code walk-throughs and expected output. 
 >
-> [Ch 1](./chapter_01_Basics/README.md) · [Ch 2](./chapter_02_Javascript_Concepts/README.md) · [Ch 3](./chapter_03_Identifier_Literals/README.md) · [Ch 4](./chapter_04_Javascript_Concepts/README.md) · [Ch 5](./chapter_05_Literal/README.md) · [Ch 6](./chapter_06_Operator/README.md) · [Ch 7](./chapter_07_If_else/README.md) · [Ch 8](./chapter_08_Switch_Statement/README.md) · [Ch 9](./chapter_09_UserInput/README.md) · [Ch 10](./chapter_10_Loops/README.md)
+> [Ch 1](./chapter_01_Basics/README.md) · [Ch 2](./chapter_02_Javascript_Concepts/README.md) · [Ch 3](./chapter_03_Identifier_Literals/README.md) · [Ch 4](./chapter_04_Javascript_Concepts/README.md) · [Ch 5](./chapter_05_Literal/README.md) · [Ch 6](./chapter_06_Operator/README.md) · [Ch 7](./chapter_07_If_else/README.md) · [Ch 8](./chapter_08_Switch_Statement/README.md) · [Ch 9](./chapter_09_UserInput/README.md) · [Ch 10](./chapter_10_Loops/README.md) · [Ch 11](./Chapter_11_Array/) · [Ch 12](./chapter_12_Funtions/) · [Ch 13](./chapter_13_Strings/)
 
 > **Legend:** ✅ Done · 🚧 Coming soon
 
