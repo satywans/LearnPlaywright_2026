@@ -1,2 +1,2 @@
-console.log("Hello The Testing Academy");
+console.log("Hello, Satya");
 let x = 10;

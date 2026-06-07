@@ -192,12 +192,26 @@ LearnPlaywrightBatch2x/
 │   ├── 69_Node_readline.js             # Node built-in `readline` (async)
 │   └── 70_prompt_sync.js               # `prompt-sync` npm package (sync)
 │
+├── chapter_10_Loops/                   ⏳ Loop examples and practice questions
+│   ├── 71_For_loop.js                   # Basic `for` loop
+│   ├── 72_For_loop.js                   # `for` loop variants
+│   ├── 73_For_Loop2.js                  # Looping with arrays and counters
+│   ├── 74_IQ.js                         # Interview loop puzzles
+│   ├── 75_For_OF_IN_EACH.js             # `for..of`, `for..in`, `forEach`
+│   ├── 76_While.js                      # `while` loop examples
+│   ├── 77_Do_While.js                   # `do..while` loop examples
+│   ├── 78_Do_While.js                   # `do..while` examples with conditions
+│   ├── 79_IQ.js                         # Loop interview questions
+│   ├── 80_IQ.js                         # Additional loop puzzles
+│   ├── 81_IQ.js                         # More loop interview practice
+│   └── 82_IQ.js                         # Final loop problem in the chapter
+│
 └── README.md                           👋 You are here
 ```
 
-> Each chapter has its **own README.md** with full code walk-throughs and expected output. Jump straight in:
+> Most chapters include a **README.md** with code walk-throughs and expected output. Chapter 10 currently contains the loop examples directly in the folder.
 >
-> [Ch 1](./chapter_01_Basics/README.md) · [Ch 2](./chapter_02_Javascript_Concepts/README.md) · [Ch 3](./chapter_03_Identifier_Literals/README.md) · [Ch 4](./chapter_04_Javascript_Concepts/README.md) · [Ch 5](./chapter_05_Literal/README.md) · [Ch 6](./chapter_06_Operator/README.md) · [Ch 7](./chapter_07_If_else/README.md) · [Ch 8](./chapter_08_Switch_Statement/README.md) · [Ch 9](./chapter_09_UserInput/README.md)
+> [Ch 1](./chapter_01_Basics/README.md) · [Ch 2](./chapter_02_Javascript_Concepts/README.md) · [Ch 3](./chapter_03_Identifier_Literals/README.md) · [Ch 4](./chapter_04_Javascript_Concepts/README.md) · [Ch 5](./chapter_05_Literal/README.md) · [Ch 6](./chapter_06_Operator/README.md) · [Ch 7](./chapter_07_If_else/README.md) · [Ch 8](./chapter_08_Switch_Statement/README.md) · [Ch 9](./chapter_09_UserInput/README.md) · [Ch 10](./chapter_10_Loops/)
 
 > **Legend:** ✅ Done · 🚧 Coming soon
 
