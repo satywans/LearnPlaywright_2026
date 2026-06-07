@@ -192,7 +192,7 @@ LearnPlaywrightBatch2x/
 │   ├── 69_Node_readline.js             # Node built-in `readline` (async)
 │   └── 70_prompt_sync.js               # `prompt-sync` npm package (sync)
 │
-├── chapter_10_Loops/                   ⏳ Loop examples and practice questions
+├── chapter_10_Loops/                   ✅ Loops — `for`, `while`, `do..while`, and interview examples
 │   ├── 71_For_loop.js                   # Basic `for` loop
 │   ├── 72_For_loop.js                   # `for` loop variants
 │   ├── 73_For_Loop2.js                  # Looping with arrays and counters
@@ -209,9 +209,9 @@ LearnPlaywrightBatch2x/
 └── README.md                           👋 You are here
 ```
 
-> Most chapters include a **README.md** with code walk-throughs and expected output. Chapter 10 currently contains the loop examples directly in the folder.
+> Each chapter has its **own README.md** with full code walk-throughs and expected output. Jump straight in:
 >
-> [Ch 1](./chapter_01_Basics/README.md) · [Ch 2](./chapter_02_Javascript_Concepts/README.md) · [Ch 3](./chapter_03_Identifier_Literals/README.md) · [Ch 4](./chapter_04_Javascript_Concepts/README.md) · [Ch 5](./chapter_05_Literal/README.md) · [Ch 6](./chapter_06_Operator/README.md) · [Ch 7](./chapter_07_If_else/README.md) · [Ch 8](./chapter_08_Switch_Statement/README.md) · [Ch 9](./chapter_09_UserInput/README.md) · [Ch 10](./chapter_10_Loops/)
+> [Ch 1](./chapter_01_Basics/README.md) · [Ch 2](./chapter_02_Javascript_Concepts/README.md) · [Ch 3](./chapter_03_Identifier_Literals/README.md) · [Ch 4](./chapter_04_Javascript_Concepts/README.md) · [Ch 5](./chapter_05_Literal/README.md) · [Ch 6](./chapter_06_Operator/README.md) · [Ch 7](./chapter_07_If_else/README.md) · [Ch 8](./chapter_08_Switch_Statement/README.md) · [Ch 9](./chapter_09_UserInput/README.md) · [Ch 10](./chapter_10_Loops/README.md)
 
 > **Legend:** ✅ Done · 🚧 Coming soon
 
